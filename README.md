@@ -1,0 +1,1 @@
+This is a sample project for a real time notes web app implemented in Node.js, using Express.js and Socket.io.
